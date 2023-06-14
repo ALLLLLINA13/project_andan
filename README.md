@@ -1,2 +1,4 @@
-# project_andan
+# Анализ и прогнозирование рейтингов фильмов
 ___
+
+Всю нужную информацию о проекте и данных, использованных в нем, можно найти [здесь](https://github.com/ALLLLLINA13/project_andan/blob/main/project.ipynb)
